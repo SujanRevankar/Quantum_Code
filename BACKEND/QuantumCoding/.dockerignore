@@ -1,0 +1,8 @@
+# target/
+*.iml
+*.class
+*.log
+.git
+.gitignore
+.idea
+node_modules
